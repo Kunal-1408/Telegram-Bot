@@ -69,10 +69,4 @@ Before running the project, make sure you have the following installed:
     - Push to your branch: git push origin feature/your-feature.
     - Create a pull request.
     
-## Licence
 
-- This is a open source project, users can contribute according to open source guidelines.
-
-
-
-![Bot](https://github.com/sparsh02/NestJS-Weather-BOT/assets/54232718/8af0882d-cec0-4b74-ad23-2c6f0782c339)
